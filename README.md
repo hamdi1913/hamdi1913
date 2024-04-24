@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **web development**
 
-- 🌱 I’m currently learning **React js ,Angular**
+- 🌱 I’m currently learning **UX/UI design**
 
 - 💬 Ask me about **html,css,js,php,Mysql,java**
 
